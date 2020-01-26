@@ -1,0 +1,46 @@
+
+body {
+	font-family: 'Bungee Shade', 'Orbitron';
+	font-size: 22px;
+	background-image: linear-gradient(#CBC6F4, #585475);
+
+}
+
+a:hover {
+  color: hotpink;
+}
+
+.wrapper h1 {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+  text-shadow: 2px 2px 4px #7C00C4;
+}
+
+.wrapper h4 {
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
+
+.img-wrapper {
+  display: inline-block;
+  width: 17%;
+  padding-left: 25px;
+  padding-top: 40px;
+  cursor: pointer;
+}
+
+.img-wrapper > img {
+  width: 100%;
+}
+
+div:hover {
+  background-color: #525CA0;
+}
+
+h1:hover {
+  background-color: #9888D8;
+}
+
+
